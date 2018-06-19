@@ -1,5 +1,6 @@
 # Lista de Tareas
 -[ ] Regularizar Coche Holanda
+<<<<<<< HEAD
   -[ ] Incluir documentación google drive
     -[ ] Pasaporte
     -[ ] Contrato de compra
@@ -28,3 +29,7 @@
     
 
 
+=======
+  -[ ] Imprimir documentación
+    -[ ] Imprimir documentación
+>>>>>>> 9f0a5680d1a7ed59b33c42d05c450cb4adaf7307
